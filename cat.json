@@ -13,5 +13,50 @@
     "id": "3",
     "url": "https://cats.com/wp-content/uploads/2020/10/American-Bobtail-cat-compressed-1-540x360.jpg",
     "name": "American Bobtail"
+  },
+  {
+    "id": "4",
+    "url": "https://cats.com/wp-content/uploads/2020/10/American-curl-cat-compressed-1-540x360.jpg",
+    "name": "American Curl"
+  },
+  {
+    "id": "5",
+    "url": "https://cats.com/wp-content/uploads/2020/10/American-longhair-cat-compressed-540x360.jpg",
+    "name": "American Longhair"
+  },
+  {
+    "id": "6",
+    "url": "https://cats.com/wp-content/uploads/2020/10/American-Polydactyl-1.jpg",
+    "name": "American Polydactyl"
+  },
+  {
+    "id": "7",
+    "url": "https://cats.com/wp-content/uploads/2020/10/American-Shorthair-Cat-compressed-540x360.jpg",
+    "name": "American Shorthair"
+  },
+  {
+    "id": "8",
+    "url": "https://cats.com/wp-content/uploads/2020/10/American-wirehair-cat-compressed-1-540x360.jpg",
+    "name": "American Wirehair"
+  },
+  {
+    "id": "9",
+    "url": "https://cats.com/wp-content/uploads/2020/10/Asian-semi-longhair-cat-compressed-1-540x360.jpg",
+    "name": "Asian Semi-Longhair"
+  },
+  {
+    "id": "10",
+    "url": "https://cats.com/wp-content/uploads/2020/10/Australian-mist-cat-compressed-1-540x360.jpg",
+    "name": "Australian Mist"
+  },
+  {
+    "id": "11",
+    "url": "https://cats.com/wp-content/uploads/2020/10/Balinese-cat-compressed-1-540x360.jpg",
+    "name": "Balinese"
+  },
+  {
+    "id": "12",
+    "url": "https://cats.com/wp-content/uploads/2020/10/Bengal-cat-compressed-1-540x360.jpg",
+    "name": "Bengal"
   }
 ]
