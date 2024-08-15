@@ -2,61 +2,73 @@
   {
     "id": "1",
     "url": "https://cats.com/wp-content/uploads/2020/10/Abyssinian-cat-540x360.png",
-    "name": "Abyssinian"
+    "name": "Abyssinian",
+    "description": "Its playful and affectionate"
   },
   {
     "id": "2",
     "url": "https://cats.com/wp-content/uploads/2020/10/Aegean-cat-540x360.png",
-    "name": "Aegean"
+    "name": "Aegean",
+    "description": "Affectionate nature and playful demeanor"
   },
   {
     "id": "3",
     "url": "https://cats.com/wp-content/uploads/2020/10/American-Bobtail-cat-compressed-1-540x360.jpg",
-    "name": "American Bobtail"
+    "name": "American Bobtail",
+    "description": "Playful and affectionate"
   },
   {
     "id": "4",
     "url": "https://cats.com/wp-content/uploads/2020/10/American-curl-cat-compressed-1-540x360.jpg",
-    "name": "American Curl"
+    "name": "American Curl",
+    "description": "Playful personality"
   },
   {
     "id": "5",
     "url": "https://cats.com/wp-content/uploads/2020/10/American-longhair-cat-compressed-540x360.jpg",
-    "name": "American Longhair"
+    "name": "American Longhair",
+    "description": "Playful personality"
   },
   {
     "id": "6",
     "url": "https://cats.com/wp-content/uploads/2020/10/American-Polydactyl-1.jpg",
-    "name": "American Polydactyl"
+    "name": "American Polydactyl",
+    "description": "Affectionate personality"
   },
   {
     "id": "7",
     "url": "https://cats.com/wp-content/uploads/2020/10/American-Shorthair-Cat-compressed-540x360.jpg",
-    "name": "American Shorthair"
+    "name": "American Shorthair",
+    "description": "Friendly demeanor"
   },
   {
     "id": "8",
     "url": "https://cats.com/wp-content/uploads/2020/10/American-wirehair-cat-compressed-1-540x360.jpg",
-    "name": "American Wirehair"
+    "name": "American Wirehair",
+    "description": "Friendly demeanor and Adaptability"
   },
   {
     "id": "9",
     "url": "https://cats.com/wp-content/uploads/2020/10/Asian-semi-longhair-cat-compressed-1-540x360.jpg",
-    "name": "Asian Semi-Longhair"
+    "name": "Asian Semi-Longhair",
+    "description": "Elegant and Affectionate"
   },
   {
     "id": "10",
     "url": "https://cats.com/wp-content/uploads/2020/10/Australian-mist-cat-compressed-1-540x360.jpg",
-    "name": "Australian Mist"
+    "name": "Australian Mist",
+    "description": "Affectionate personality"
   },
   {
     "id": "11",
     "url": "https://cats.com/wp-content/uploads/2020/10/Balinese-cat-compressed-1-540x360.jpg",
-    "name": "Balinese"
+    "name": "Balinese",
+    "description": "Playful and affectionate"
   },
   {
     "id": "12",
     "url": "https://cats.com/wp-content/uploads/2020/10/Bengal-cat-compressed-1-540x360.jpg",
-    "name": "Bengal"
+    "name": "Bengal",
+    "description": "Playful personality"
   }
 ]
