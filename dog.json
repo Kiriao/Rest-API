@@ -2,32 +2,38 @@
   {
     "id": "1",
     "url": "https://pangovet.com/wp-content/uploads/2024/06/Affenhuahua-2.jpg",
-    "name": "Affenhuahua"
+    "name": "Affenhuahua",
+    "description": "Its playful"
   },
   {
     "id": "2",
     "url": "https://pangovet.com/wp-content/uploads/2024/06/Affenpinscher-dogs_Shutterstock_katamount.jpg",
-    "name": "Affenpinscher"
+    "name": "Affenpinscher",
+    "description": "It thrives on attention and interaction"
   },
   {
     "id": "3",
     "url": "https://pangovet.com/wp-content/uploads/2024/06/Afghan-Hound_David-Raihelgauz_shutterstock.jpg",
-    "name": "Afghan Hound"
+    "name": "Afghan Hound",
+    "description": "Striking appearance and regal demeanor"
   },
   {
     "id": "4",
     "url": "https://pangovet.com/wp-content/uploads/2024/06/Airedale-Terrier-on-grass_Lumia-Studio_Shutterstock.jpg",
-    "name": "Airedale Terrier"
+    "name": "Airedale Terrier",
+    "description": "It Versatility, intelligence, and distinctive appearance"
   },
   {
     "id": "5",
     "url": "https://pangovet.com/wp-content/uploads/2024/06/Akbash-puppies_shutterstock_ehasdemir.jpg",
-    "name": "Akbash"
+    "name": "Akbash",
+    "description": "Prized for its strength, independence, and protective instincts"
   },
   {
     "id": "6",
     "url": "https://pangovet.com/wp-content/uploads/2024/06/Akita-dog_Anaite_Shutterstock.jpg",
-    "name": "Akita Inu"
+    "name": "Akita Inu",
+    "description": "It is renowned for its loyalty, strength, and distinctive appearance"
   },
   {
     "id": "7",
