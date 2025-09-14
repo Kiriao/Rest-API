@@ -1,0 +1,12 @@
+{
+  "id": "test-001",
+  "title": "Updated Test Book",
+  "authors": [
+    "Jane Doe"
+  ],
+  "categories": [
+    "updated_category"
+  ],
+  "synopsis": "This book has been updated!",
+  "thumbnail": ""
+}
