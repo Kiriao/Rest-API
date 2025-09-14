@@ -1,0 +1,12 @@
+{
+  "id": "test-1757861346009",
+  "title": "Test Book test-1757861346009",
+  "authors": [
+    "John Doe"
+  ],
+  "categories": [
+    "juvenile_fiction"
+  ],
+  "synopsis": "This is a test book for API testing",
+  "thumbnail": ""
+}
