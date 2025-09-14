@@ -1,12 +1,4 @@
 {
-  "id": "test-1757861418860",
-  "title": "Test Book test-1757861418860",
-  "authors": [
-    "John Doe"
-  ],
-  "categories": [
-    "juvenile_fiction"
-  ],
-  "synopsis": "This is a test book for API testing",
-  "thumbnail": ""
+  "id": "dynamic-update",
+  "title": "Updated dynamically"
 }
