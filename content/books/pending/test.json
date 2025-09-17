@@ -1,0 +1,14 @@
+{
+  "id": "test",
+  "title": "Test",
+  "authors": [
+    "Test"
+  ],
+  "categories": [
+    "Early Readers"
+  ],
+  "synopsis": "Test publish @ 10pm",
+  "thumbnail": "",
+  "link": "https://www.google.com.sg",
+  "scheduledTime": "2025-09-17T22:00"
+}
