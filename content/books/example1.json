@@ -1,0 +1,14 @@
+{
+  "id": "example1",
+  "title": "Example1",
+  "authors": [
+    "John"
+  ],
+  "categories": [
+    "Educational",
+    "Juvenile Fiction"
+  ],
+  "synopsis": "Example1",
+  "thumbnail": "",
+  "link": ""
+}
